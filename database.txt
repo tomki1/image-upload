@@ -1,5 +1,5 @@
 CREATE TABLE img (
   id              SERIAL PRIMARY KEY,
   name            TEXT NOT NULL,
-  img  			  BYTEA NULL
+  img  			      BYTEA NULL
 );
